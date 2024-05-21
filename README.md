@@ -4,6 +4,15 @@ I am a full-stack blockchain developer with a great proficient in [Ethereum](htt
 
 My most favourite language is [FunC](https://docs.ton.org/develop/func/overview), and I also enjoy working with [Solidity](https://soliditylang.org/), [Rust](https://www.rust-lang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) / [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/), [Go](https://go.dev/), and [C#](https://dotnet.microsoft.com/languages/csharp).
 
+Having experience in building
+
+1. `NFT MarketPlace`
+2. `DEX Platform`
+3. `P2E game`
+4. `Telegram BOT`
+5. `Telegram MiniApp`
+6. `Custom Wallet`
+
 Currently, I am actively learning smart contract auditing with the ambition of becoming a senior auditor.
 
 My ultimate goal is to become a skilled H4XOR in the blockchain space.
