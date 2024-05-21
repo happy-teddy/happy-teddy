@@ -2,7 +2,7 @@
 
 I am a full-stack blockchain developer with a great proficient in [Ethereum](https://ethereum.org/), [Solana](https://solana.com/), and [TON](https://ton.org/).
 
-My most favourite language is [FunC](https://docs.ton.org/develop/func/overview), and I also enjoy working with [Solidity](https://soliditylang.org/), [Rust](https://www.rust-lang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)/[TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/), and [Go](https://go.dev/), [C#](https://dotnet.microsoft.com/languages/csharp).
+My most favourite language is [FunC](https://docs.ton.org/develop/func/overview), and I also enjoy working with [Solidity](https://soliditylang.org/), [Rust](https://www.rust-lang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) / [TypeScript](https://www.typescriptlang.org/), [Python](https://www.python.org/), [Go](https://go.dev/), and [C#](https://dotnet.microsoft.com/languages/csharp).
 
 You can explore my GitHub profile to see my contributions to public projects based in various languages.
 Currently, I am actively learning smart contract auditing with the ambition of becoming a senior auditor.
