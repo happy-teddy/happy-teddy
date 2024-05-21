@@ -12,7 +12,7 @@ My ultimate goal is to become a skilled H4XOR in the blockchain space.
 Let's stay connected and collaborate on cutting-edge projects together!
 
 <br />
-
+<!--
 ## 📊 Github stats
 
 <p align="center">
@@ -42,3 +42,4 @@ Let's stay connected and collaborate on cutting-edge projects together!
 <br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=happy-teddy)
+-->
