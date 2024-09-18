@@ -1,10 +1,6 @@
 ## 
 
-10 years of proficient experience in Full-Stack Development, and a strong enthusiasm for AI and WEB3.
-Honed best skills in producing clean, efficient, and maintainable code, and have been committing to innovative products across all industries
-like E-Commerce, Health Care, Real Estate, Fintech, E-Learning, Gaming, etc.
-Made significant impacts in various cross-functional Agile teams and leveraged my supreme leadership & communication skills.
-Leading team player, and reliable engineer who takes full responsibility for the project.
+With 10+ years of Full-Stack Development experience, I have a specialized focus on WEB3 technologies, working extensively with blockchain platforms such as Ethereum, Solana, and TON (The Open Network). I excel at integrating Layer 1 blockchain protocols for decentralized security and trust, Layer 2 solutions for enhanced scalability and speed, and Layer 3 dApp infrastructures to create fluid, decentralized user experiences.
 
 <!--
 ## 📊 Github stats
