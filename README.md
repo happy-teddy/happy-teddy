@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Youtube videos](https://img.shields.io/static/v1?message=YouTube&logo=youtube&labelColor=FF0000&color=FF0000&logoColor=white&label=%20)](https://www.youtube.com/playlist?list=PLFb3VvViujW7bvEh_UdPChneZsZC8tXdZ)
 🥖🥐🇫🇷
 
-I am Jean a passionate web3 dev, specialised in smart contracts and Solidity.
+I am Teddy a passionate web3 dev, specialised in smart contracts and Solidity.
 
 Author of the 📓 [**All About Solidity Book**](https://leanpub.com/all-about-solidity-book#:~:text=A%20developer%20guide%20for%20smart,build%20new%20protocols%20and%20dApps.&text=Discover%20the%20secrets%20of%20the,About%20Solidity%22%20for%20a%20reason!)! + ✍🏼 [**All About Solidity** article series](https://medium.com/me/stories/public)
 
